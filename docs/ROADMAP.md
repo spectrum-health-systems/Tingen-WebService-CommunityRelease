@@ -4,4 +4,4 @@
 
 </div>
 
-<sub>Last updated: 260618</sub>
+Please refer to the [Tingen Web Service Roadmap](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/ROADMAP.md).

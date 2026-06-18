@@ -4,8 +4,8 @@
 
 </div>
 
-## RYY.MM (YYYY-MM-DD)
+## Autumn 2026
 
-> Please see the [release notes](release-notes/RXX-release-notes.md) for more details.
+> Please see the [release notes](rel/Autumn2026-release-notes.md) for more details.
 
 ***

@@ -4,4 +4,4 @@
 
 </div>
 
-<sub>Last updated: 260618</sub>
+Please refer to the [Tingen Web Service R26.5 Known Issues](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/KNOWN-ISSUES.md).
