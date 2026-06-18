@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Repository: RYY.MM Release Notes</h1>
+  <h1>Tingen Web Service Community Release: RYY.MM Release Notes</h1>
 
 </div>
 
