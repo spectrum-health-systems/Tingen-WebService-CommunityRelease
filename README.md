@@ -13,12 +13,11 @@
     <img alt="Fallback image description" src=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
   </picture>
   
-  <h3>A custom web service for Netsmart's AvatarNX™ EHR platform</h3>
+  <h3>The Community Release of the Tingen Web Service</h3>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.6-teal)&nbsp;
-  ![STAGE](https://img.shields.io/badge/DEVELOPMENT-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green, Development = Orange -->
-  ![LICENSE](https://img.shields.io/badge/License-apache-blue)&nbsp;
-  ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/release-26.6-teal)&nbsp;
+  ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
+  ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)&nbspp
 
 </div>
 
