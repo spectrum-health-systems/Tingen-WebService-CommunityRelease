@@ -24,9 +24,11 @@
 
 ***
 
-The Tingen Web Service **Community Release** is a stable, tested version of the [Tingen Web Service](https://github.com/spectrum-health-systems/Tingen-WebService), and is intended to be used in production environments by the Avatar Community.
+The Tingen Web Service **Community Release** is a stable, tested version of the [R26.5](https://github.com/spectrum-health-systems/Tingen-WebService/tree/R26.5) [Tingen Web Service](https://github.com/spectrum-health-systems/Tingen-WebService), and is intended to be used in production environments by the Avatar Community.
 
-## FEATURES
+The Community Release is based on [R26.5](https://github.com/spectrum-health-systems/Tingen-WebService/tree/R26.5) of the Tingen Web Service, which is based on the R26.5 release of the AvatarNX™ platform. It includes all of the features and functionality of the Tingen Web Service, as well as several additional tools and utilities that are not included in the standard release.
+
+
 
 * Several built-in tools and utilities that extend the functionality of AvatarNX™
 * A solid foundation to build additional AvatarNX™ custom tools and utilities
