@@ -6,14 +6,13 @@
     <img alt="Fallback image description" src=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
   </picture>
   
-  <h3>Autumn 2026</h3>
+  <h1>Autumn 2026</h1>
 
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 </div>
 
-***
 
 <h6 align="center">
 
@@ -23,7 +22,7 @@
 
 ***
 
-This is the Autumn 2026 Community Release of the Tingen Web Service, and is considered to be stable, tested, and ready for production use by the Avatar Community.
+This is the **Autumn 2026 Community Release** of the [Tingen Web Service](https://github.com/spectrum-health-systems/Tingen-WebService), and is considered to be stable, tested, and ready for production use by the Avatar Community.
 
 ## LICENSE
 
@@ -36,8 +35,5 @@ Copyright &copy; 2026 [A Pretty Cool Program](https://github.com/APrettyCoolProg
 
   [FAQ](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/FAQs.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](https://spectrum-health-systems.github.io/Tingen-WebService/api/html/Welcome.htm)&nbsp;&bull;&nbsp;[TESTING](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/NOTICES.md)
   
-</h6>
-
-***
-
-<sub>Last updated: 260618</sub>
+</h6
+>
