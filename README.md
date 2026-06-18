@@ -6,9 +6,8 @@
     <img alt="Fallback image description" src=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
   </picture>
   
-  <h3>The Community Release of the Tingen Web Service</h3>
+  <h3>Autumn 2026</h3>
 
-  ![RELEASE](https://img.shields.io/badge/release-26.5-teal)&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
