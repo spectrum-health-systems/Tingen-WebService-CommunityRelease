@@ -17,7 +17,7 @@
 
 <h6 align="center">
 
-  [MANUAL](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/KNOWN-ISSUES.md)
+  [MANUAL](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[FAQ](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/FAQs.md)&nbsp;&bull;&nbsp;[SUPPORT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/NOTICES.md)
   
 </h6>
 
@@ -33,8 +33,6 @@ Copyright &copy; 2026 [A Pretty Cool Program](https://github.com/APrettyCoolProg
 ***
 
 <h6 align="center">
-
-  [FAQ](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/FAQs.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](https://spectrum-health-systems.github.io/Tingen-WebService/api/html/Welcome.htm)&nbsp;&bull;&nbsp;[TESTING](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/NOTICES.md)
   
 </h6
 >
