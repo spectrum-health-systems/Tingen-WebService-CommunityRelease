@@ -1,10 +1,3 @@
-***
-
-> [!WARNING]  
-> This is the development release of the Tingen Web Service, and is not intended for use in production environments.
-
-***
-
 <div align="center">
 
   <picture>
@@ -15,9 +8,9 @@
   
   <h3>The Community Release of the Tingen Web Service</h3>
 
-  ![RELEASE](https://img.shields.io/badge/release-26.6-teal)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/release-26.5-teal)&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
-  ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)&nbspp
+  ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 </div>
 
@@ -25,7 +18,7 @@
 
 <h6 align="center">
 
-  [MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)
+  [MANUAL](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/KNOWN-ISSUES.md)
   
 </h6>
 
@@ -106,7 +99,7 @@ Copyright &copy; 2026 [A Pretty Cool Program](https://github.com/APrettyCoolProg
 
 <h6 align="center">
 
-  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](https://spectrum-health-systems.github.io/Tingen-WebService/api/html/Welcome.htm)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)
+  [FAQ](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/FAQs.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](https://spectrum-health-systems.github.io/Tingen-WebService/api/html/Welcome.htm)&nbsp;&bull;&nbsp;[TESTING](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](https://github.com/spectrum-health-systems/Tingen-WebService/blob/development/docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](https://github.com/spectrum-health-systems/Tingen-WebService/blob/R26.5/docs/NOTICES.md)
   
 </h6>
 
