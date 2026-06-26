@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForDark-512x346.png">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
-    <img alt="Fallback image description" src=".github/repository/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForDark-512x346.png">
+    <source media="(prefers-color-scheme: light)" srcset=".github/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
+    <img alt="Fallback image description" src=".github/logo/Tingen-WebService-CommunityRelease-Logo-Trans-ForLight-512x346.png">
   </picture>
   
   <h1>Autumn 2026</h1>
